@@ -1,0 +1,422 @@
+[
+  {
+    "sku_id": "1",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "3",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "4",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "5",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "6",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "7",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "8",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "9",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "10",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "11",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "12",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "13",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "14",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "15",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "16",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "17",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "18",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "19",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "20",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "21",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "22",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "23",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "24",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "25",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "26",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "27",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "28",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "29",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "30",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "31",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "32",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "33",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "34",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "35",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "36",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "37",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "38",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "39",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "40",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "41",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "42",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "43",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "44",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "45",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "46",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "47",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "48",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "49",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "50",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "51",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "52",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "53",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "54",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "55",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "56",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "57",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "58",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "59",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "60",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "61",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "62",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "63",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "64",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "65",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "66",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "67",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "68",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "69",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "70",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  },
+  {
+    "sku_id": "71",
+    "warehouses_id": "PickupPoint",
+    "unlimitedQuantity": false,
+    "quantity": 10
+  }
+]
